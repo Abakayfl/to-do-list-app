@@ -1,4 +1,4 @@
 # to-do-list-app
 
 ## Description
-Helps to add and remove item to a list.
+The app helps to add and remove item to a list.
